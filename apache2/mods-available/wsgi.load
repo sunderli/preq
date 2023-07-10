@@ -1,0 +1,1 @@
+LoadModule wsgi_module /opt/venv/lib/python3.8/site-packages/mod_wsgi/server/mod_wsgi-py38.cpython-38-x86_64-linux-gnu.so
